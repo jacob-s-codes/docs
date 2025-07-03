@@ -201,6 +201,8 @@ navigation:
           - passkeys
           - userInvites
           - samlConnections
+          - oidcConnections:
+              title: OIDC Connections
           - scimApiKeys:
               title: SCIM API Keys
   - tab: frontend-api
@@ -220,5 +222,7 @@ navigation:
           - users
           - userInvites
           - samlConnections
+          - oidcConnections:
+              title: OIDC Connections
           - scimApiKeys:
               title: SCIM API Keys
